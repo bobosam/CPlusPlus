@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Part01.3Problem02.cpp
+Part01.3Problem02.cpp(11): warning C4101: 'inches': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part01.3Problem02.vcxproj -> c:\users\bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.3Problem02.exe
+  Part01.3Problem02.vcxproj -> c:\users\bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.3Problem02.pdb (Partial PDB)
