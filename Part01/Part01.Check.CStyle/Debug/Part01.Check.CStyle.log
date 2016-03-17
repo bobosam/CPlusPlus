@@ -1,0 +1,5 @@
+﻿  Part01.Check.CStyle.cpp
+Part01.Check.CStyle.cpp(20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part01.Check.CStyle.vcxproj -> C:\Users\Bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.Check.CStyle.exe
+  Part01.Check.CStyle.vcxproj -> C:\Users\Bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.Check.CStyle.pdb (Partial PDB)

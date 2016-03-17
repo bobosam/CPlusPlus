@@ -9,7 +9,7 @@ using namespace System;
 int main()
 {
 	int a, b, d, min;
-	cout << "Enter two numbers";
+	cout << "Enter two numbers ";
 	cin >> a >> b;
 	min = a > b ? b : a;
 

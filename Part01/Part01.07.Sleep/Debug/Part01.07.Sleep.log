@@ -1,0 +1,6 @@
+﻿  Part01.07.Sleep.cpp
+Part01.07.Sleep.cpp(27): warning C4018: '<': signed/unsigned mismatch
+Part01.07.Sleep.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part01.07.Sleep.vcxproj -> C:\Users\Bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.07.Sleep.exe
+  Part01.07.Sleep.vcxproj -> C:\Users\Bobo\documents\visual studio 2015\Projects\C++\Part01\Debug\Part01.07.Sleep.pdb (Partial PDB)
