@@ -1,0 +1,5 @@
+﻿  Part02check02.line.cpp
+Part02check02.line.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part02check02.line.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.02\Part.02\Debug\Part02check02.line.exe
+  Part02check02.line.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.02\Part.02\Debug\Part02check02.line.pdb (Partial PDB)
