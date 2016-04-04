@@ -1,0 +1,5 @@
+﻿  Part.03.exercise.03.02.stack.cpp
+Part.03.exercise.03.02.stack.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part.03.exercise.03.02.stack.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.03\Debug\Part.03.exercise.03.02.stack.exe
+  Part.03.exercise.03.02.stack.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.03\Debug\Part.03.exercise.03.02.stack.pdb (Partial PDB)

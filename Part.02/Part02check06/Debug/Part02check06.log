@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Part02check06.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part02check06.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.02\Part.02\Debug\Part02check06.exe
+  Part02check06.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.02\Part.02\Debug\Part02check06.pdb (Partial PDB)
