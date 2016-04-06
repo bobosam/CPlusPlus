@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Part.03.exercise.04.01.Printers.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Part.03.exercise.04.01.Printers.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.03\Debug\Part.03.exercise.04.01.Printers.exe
+  Part.03.exercise.04.01.Printers.vcxproj -> C:\Users\Bobo\Documents\Visual Studio 2015\Projects\C++\Part.03\Debug\Part.03.exercise.04.01.Printers.pdb (Partial PDB)
